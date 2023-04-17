@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/ppradd-project/static/css/main.073c9b0a.css",
-    "main.js": "/ppradd-project/static/js/main.21da9d73.js",
+    "main.js": "/ppradd-project/static/js/main.1912740d.js",
     "static/js/787.d98ef524.chunk.js": "/ppradd-project/static/js/787.d98ef524.chunk.js",
     "static/media/logo.svg": "/ppradd-project/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/ppradd-project/index.html",
     "main.073c9b0a.css.map": "/ppradd-project/static/css/main.073c9b0a.css.map",
-    "main.21da9d73.js.map": "/ppradd-project/static/js/main.21da9d73.js.map",
+    "main.1912740d.js.map": "/ppradd-project/static/js/main.1912740d.js.map",
     "787.d98ef524.chunk.js.map": "/ppradd-project/static/js/787.d98ef524.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.21da9d73.js"
+    "static/js/main.1912740d.js"
   ]
 }
